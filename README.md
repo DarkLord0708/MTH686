@@ -23,9 +23,7 @@ This project explores:
 ### ✔️ 1. Gauss–Newton Algorithm (From Scratch)
 - Analytical Jacobian computation  
 - Parameter update rule:  
-  $$
-  \theta_{k+1} = \theta_k - (J^\top J)^{-1} J^\top r
-  $$
+  $ \theta_{k+1} = \theta_k - (J^\top J)^{-1} J^\top r $
 - RSS-based convergence criteria  
 - Handling divergence and failed convergence  
 
