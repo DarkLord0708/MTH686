@@ -43,7 +43,7 @@ For every iteration:
 
 ### ✔️ 4. Error Metrics
 - Mean Squared Error (MSE)  
-- Variance estimate \( \hat{\sigma}^2 \)  
+- Variance estimate ```math \hat{\sigma}^2 ```  
 - Optional confidence intervals  
 
 ---
